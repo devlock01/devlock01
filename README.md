@@ -1,6 +1,6 @@
 Hi, I’m @devlock01
 
-I live in Berlin and I'm new to GitHub. Intetionally I want to share some of my (python) code as open source and hey, why not
+I live in Berlin and I'm new to GitHub. Intentionally I want to share some of my (python) code as open source and hey, why not
 (virtually) meeting nice people around the world ?
 
 Meanwhile is python (and pyqt) my passion. But there were also golden days with Perl, MySQL, PostgresSQL, jquery and the like before I 
