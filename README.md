@@ -1,12 +1,17 @@
-Hi, I’m @devlock01
+Hi, I’m @devlock01 and new to GitHub. <br>
+Intentionally I want to share some of my (python) code as open source.
 
-I live in Berlin and I'm new to GitHub. Intentionally I want to share some of my (python) code as open source and hey, why not
-(virtually) meeting nice people around the world ?
+My current interest is
+- python + pyqt
 
-Meanwhile is python (and pyqt) my passion. But there were also golden days with Perl, MySQL, PostgresSQL, jquery and the like before I 
-met Django.
+I have some experience in
+- Django
+- MySQL
+- PostgresSQL
+- jquery
+- Perl
 
-Well, I'm curious about the way awaiting me on GitHub. :-)
+Well, I'm curious about the way awaiting me on GitHub.
 
 <!---
 devlock01/devlock01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
